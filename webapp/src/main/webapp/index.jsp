@@ -93,19 +93,19 @@ h1{
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
-                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#ministries">Ministries</a></li>
+                <li><a href="#donate">donate</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> Welcome to wellspring Assembly church </h1>   
+         <h1> Welcome to wellspring Assembly church founded by Pastor. Jack Roshan in the year 2023 is a non-demonitional independant church open for people from all background </h1>   
 	 
 
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
-    <section id="pricing"><h1>This Is Pricing</h1></section>
+    <section id="about"><h1>Founded by Pastor Jack</h1></section>
+    <section id="ministries"><h1>This Is ministries></section>
+    <section id="donate"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
 
 </body>
