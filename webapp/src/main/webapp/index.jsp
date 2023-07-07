@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Big Sale shopping site</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Wellspring Assembly</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Amazon Mobile offers will end on 15th July 2023 </h1>   
+         <h1> Welcome to wellspring Assembly church </h1>   
 	 
 
     </section>    
